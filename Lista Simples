@@ -1,0 +1,5 @@
+Lista = ["apple", "banana", "cherry, tamarindo, mexirica"]
+Lista.append("Laranja")
+Lista.append("Tomate")
+Lista.append("Acabate")
+print(Lista)
