@@ -1,0 +1,16 @@
+# x = min(5, 10, 25)
+# y = max(5, 10, 25)
+
+# print(x)
+# print(y)
+
+# x = abs(-7.99)
+
+# print(x)
+
+valor = int(input('Digite  um número para saber o fatorial:'))  
+fatorial = 1  
+while (valor > 1):  
+  fatorial = fatorial * valor  
+  valor = valor - 1  
+print('O fatorial é {:d}.'.format(fatorial))
