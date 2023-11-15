@@ -1,0 +1,2 @@
+Tuplas_Simples = ("apple", "banana", "cherry")
+print(Tuplas_Simples)
